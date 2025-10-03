@@ -6,6 +6,10 @@ https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoCol
 https://img.shields.io/badge/GitHub-Open%2520Source-181717?style=for-the-badge&logo=github
 https://img.shields.io/badge/License-MIT-green?style=for-the-badge
 
+![GitHub stars](https://img.shields.io/github/stars/programmerdrn/Divisibility-Method)
+![GitHub forks](https://img.shields.io/github/forks/programmerdrn/Divisibility-Method)
+![GitHub issues](https://img.shields.io/github/issues/programmerdrn/Divisibility-Method)
+
 ✨ ویژگی‌ها
 ✅ بررسی تقسیم‌پذیری اعداد بر اعداد ۲ تا ۱۰
 
